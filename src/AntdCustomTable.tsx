@@ -1,4 +1,3 @@
-// src/CustomTable.tsx
 import { Table, TableProps } from "antd";
 import React, { useEffect, useState } from "react";
 
