@@ -28,7 +28,7 @@ A customizable Ant Design Table component with dynamic height detection, built f
 Install `AntdCustomTable` via npm or yarn:
 
 ```bash
-npm install antdcustomtable
+npm install antd-custom-table
 # or
-yarn add antdcustomtable
+yarn add antd-custom-table
 ```

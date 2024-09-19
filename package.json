@@ -1,5 +1,5 @@
 {
-  "name": "antdcustomtable",
+  "name": "antd-custom-table",
   "version": "1.0.0",
   "description": "A customizable Ant Design Table component with dynamic height detection.",
   "main": "rollup.config.js",
